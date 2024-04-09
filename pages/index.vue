@@ -1,3 +1,5 @@
+
+
 <template>
     <h1 class="text-3xl text-white font-bold ">
       Cejma
@@ -7,9 +9,7 @@
       titre="Comment se décline la cyberdiplomatie française au niveau européen et international ?"
       />
 
-      <test
-      titre="Comment se décline la cyberdiplomatie française au niveau européen et international ?"
-      />
+
     </div>
    
     

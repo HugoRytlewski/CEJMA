@@ -7,6 +7,8 @@ const {
 titre: String,
 });
 
+useScrollFixed(isOpen);
+
 </script>
 
 <template>
@@ -15,8 +17,11 @@ titre: String,
 
 </div>
 <transition>
-<div v-if="isOpen" class="h-screen w-screen bg-red-500 fixed top-0 left-0">
-<p @click="isOpen=!isOpen">X</p>
+<div v-if="isOpen" class="h-screen w-screen bg-neutral-950 bg-opacity-60  fixed top-0 left-0 flex items-center justify-center">
+  <div class="h-[50rem] w-[90rem] bg-neutral-800 rounded-lg">
+    <p @click="isOpen=false" class="text-white  cursor-pointer p-6 text-xl font-bold">X</p>
+
+  </div>
 </div>
 </transition>
 
