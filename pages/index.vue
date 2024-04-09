@@ -7,7 +7,7 @@
     <div class="flex flex-col gap-6 mt-6">
 
       <question1/>
-      <question2/>
+      <question3/>
 
 
     </div>
