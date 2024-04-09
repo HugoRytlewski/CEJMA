@@ -13,7 +13,7 @@ useScrollFixed(isOpen);
 
 </div>
 <transition>
-<div v-if="isOpen" class="h-screen overflow-scroll  w-screen bg-neutral-950 bg-opacity-60  fixed top-0 left-0 flex items-center justify-center">
+<div v-if="isOpen" class="h-screen overflow-scroll md:overflow-hidden  w-screen bg-neutral-950 bg-opacity-60  fixed top-0 left-0 flex items-center justify-center">
   <div class="md:h-[50rem] w-[90rem] bg-neutral-800 rounded-lg p-6 relative">
     <p @click="isOpen=false" class="text-white absolute right-3 md:right-7 top-[23rem] md:top-4 cursor-pointer text-xl font-bold">X</p>
     <h1 class="text-white text-lg font-bold md:mt-6 pt-96 md:pt-0">
