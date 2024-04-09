@@ -5,10 +5,9 @@
       Cejma
     </h1>
     <div class="flex flex-col gap-6 mt-6">
-      <test
-      titre="Comment se décline la cyberdiplomatie française au niveau européen et international ?"
-      />
 
+      <question1/>
+    
 
     </div>
    
