@@ -1,10 +1,10 @@
 
 
 <template>
-  <div class="h-[84vh] flex flex-col items-center justify-center">
+  <div class="h-[84vh] flex flex-col items-center justify-center select-none">
 
-    <h1 class="text-3xl text-white font-bold ">
-      Cejma
+    <h1 class="text-[4rem] text-white font-bold ">
+      CEJMA
     </h1>
     <div class="flex gap-10">
 
