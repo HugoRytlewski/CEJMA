@@ -22,27 +22,27 @@ useScrollFixed(isOpen);
     <div class="flex flex-col gap-6 mt-10">
 
     <div class="flex flex-col gap-2 bg-neutral-900 p-6  rounded-lg">
-      <h2 class=" text-xl">
+      <h2 class=" text-xl text-white">
         - Stratégie nationale pour la sécurité du numérique (2015) 
       </h2>
-      <p>La France a élaboré une stratégie nationale pour répondre aux nouveaux défis liés à la sécurité numérique, en mettant l'accent sur la protection des infrastructures critiques et la lutte contre la cybercriminalité.</p>
+      <p class="text-white">La France a élaboré une stratégie nationale pour répondre aux nouveaux défis liés à la sécurité numérique, en mettant l'accent sur la protection des infrastructures critiques et la lutte contre la cybercriminalité.</p>
   
     </div>
 
     <div class="flex flex-col gap-2 bg-neutral-900 p-6  rounded-lg">
-      <h2 class=" text-xl">
+      <h2 class="text-white text-xl">
         - Stratégie internationale de la France pour le numérique (2017) 
       </h2>
-      <p>Pour renforcer son influence et sa coopération internationale dans le domaine de la cybersécurité, la France a développé une stratégie internationale axée sur la gouvernance, l'économie et la sécurité numérique.</p>
+      <p class="text-white">Pour renforcer son influence et sa coopération internationale dans le domaine de la cybersécurité, la France a développé une stratégie internationale axée sur la gouvernance, l'économie et la sécurité numérique.</p>
   
     </div>
 
     
     <div class="flex flex-col gap-2 bg-neutral-900 p-6  rounded-lg">
-      <h2 class=" text-xl">
+      <h2 class="text-white text-xl">
       - Revue stratégique de cyberdéfense (2018) 
       </h2>
-      <p>Une revue stratégique a été réalisée pour évaluer les objectifs et les moyens de la stratégie nationale de cyberdéfense, afin de garantir sa pertinence et son efficacité face à l'évolution des menaces cybernétiques.</p>
+      <p class="text-white">Une revue stratégique a été réalisée pour évaluer les objectifs et les moyens de la stratégie nationale de cyberdéfense, afin de garantir sa pertinence et son efficacité face à l'évolution des menaces cybernétiques.</p>
   
     </div>
   </div>

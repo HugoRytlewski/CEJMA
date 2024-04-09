@@ -22,33 +22,33 @@ useScrollFixed(isOpen);
     <div class="flex flex-col gap-6 mt-10">
 
     <div class="flex flex-col gap-2 bg-neutral-900 p-6  rounded-lg">
-      <h2 class=" text-xl">
+      <h2 class=" text-white text-xl">
         - Promotion de l'autonomie stratégique numérique de l'Union européenne (UE)
       </h2>
-      <p>La France défend une UE capable de gérer ses intérêts numériques et de protéger ses valeurs.</p>  
+      <p class="text-white">La France défend une UE capable de gérer ses intérêts numériques et de protéger ses valeurs.</p>  
     </div>
 
     <div class="flex flex-col gap-2 bg-neutral-900 p-6  rounded-lg">
-      <h2 class=" text-xl">
+      <h2 class="text-white  text-xl">
         - Coopération internationale 
       </h2>
-      <p>Elle travaille avec les autres États membres pour élaborer des politiques communes et renforcer la coopération opérationnelle.</p>
+      <p class="text-white">Elle travaille avec les autres États membres pour élaborer des politiques communes et renforcer la coopération opérationnelle.</p>
     </div>
 
     
     
     <div class="flex flex-col gap-2 bg-neutral-900 p-6  rounded-lg">
-      <h2 class=" text-xl">
+      <h2 class="text-white text-xl">
         - Participation aux initiatives européennes 
       </h2>
-      <p>La France participe à des forums pour élaborer des normes internationales et coopère avec d'autres pays pour lutter contre les menaces cybernétiques.</p>
+      <p class="text-white">La France participe à des forums pour élaborer des normes internationales et coopère avec d'autres pays pour lutter contre les menaces cybernétiques.</p>
     </div>
 
     <div class="flex flex-col gap-2 bg-neutral-900 p-6  rounded-lg">
-      <h2 class=" text-xl">
+      <h2 class="text-white text-xl">
         - L'Appel de Paris
       </h2>
-      <p>L'initiative mobilise la communauté internationale autour de principes pour un cyberespace sûr et ouvert.</p>
+      <p class="text-white">L'initiative mobilise la communauté internationale autour de principes pour un cyberespace sûr et ouvert.</p>
     </div>
   </div>
 
