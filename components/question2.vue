@@ -7,8 +7,8 @@ useScrollFixed(isOpen);
 </script>
 
 <template>
-<div @click="isOpen=!isOpen" class="h-44 w-96 bg-emerald-500	rounded-xl flex items-center justify-center p-6 text-white cursor-pointer font-bold ">
-  Quels sont acteurs qui contribuent à l’efficacité du dispositif français de lutte contre la cybersécurité ?
+  <div @click="isOpen=!isOpen" class="h-44 md:w-96 w-60 bg-[#95D5B2]	rounded-xl flex items-center justify-center p-6 text-[#FFFFFF] cursor-pointer font-bold ">
+    Quels sont acteurs qui contribuent à l’efficacité du dispositif français de lutte contre la cybersécurité ?
 
 </div>
 <transition>

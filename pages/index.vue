@@ -1,18 +1,70 @@
 
 
 <template>
+  <div class="h-[84vh] flex flex-col items-center justify-center">
+
     <h1 class="text-3xl text-white font-bold ">
       Cejma
     </h1>
-    <div class="flex flex-col gap-6 mt-6">
+    <div class="flex gap-10">
+
+      <div class="grid grid-cols-2 bg-[#40916C] p-6 rounded-xl grid-rows-3 gap-6 mt-6">
 
       <question1/>
       <question2/>
       <question3/>
       <question4/>
+      <question4/>
+
+
+    </div>
+    <div class="grid grid-cols-2 bg-[#40916C] p-6 rounded-xl grid-rows-3 gap-6 mt-6">
+      <question5/>
+      <question5/>
       <question5/>
 
     </div>
+  </div>
+</div>
+
+   <div class="fixed bottom-[-25rem] left-0 z-[-10]  flex ">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+
+   </div>
+
+   <div class="fixed top-[-25rem] left-0 z-[-10]  flex ">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+
+   </div>
    
+   <div class="fixed  left-[-28rem] z-[-10]  flex flex-col ">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+
+   </div>
+
+   <div class="fixed  right-[-28rem] z-[-10]  flex flex-col ">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+    <img src="/bush.png" alt="">
+
+   </div>
     
   </template>

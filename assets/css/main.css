@@ -4,5 +4,5 @@
 
 
 body{
-    @apply bg-neutral-800
+    @apply bg-[#1B4332] overflow-hidden
 }

@@ -7,7 +7,7 @@ useScrollFixed(isOpen);
 </script>
 
 <template>
-<div @click="isOpen=!isOpen" class="h-44 w-96 bg-emerald-500	rounded-xl flex items-center justify-center p-6 text-white cursor-pointer font-bold ">
+  <div @click="isOpen=!isOpen" class="h-44 md:w-96 w-60 bg-[#95D5B2]	rounded-xl flex items-center justify-center p-6 text-[#FFFFFF] cursor-pointer font-bold ">
     Qu'est-ce que l'Appel de Paris ?
 
 </div>
