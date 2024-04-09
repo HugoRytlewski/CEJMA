@@ -3,12 +3,12 @@
 <template>
   <div class="h-[84vh] flex flex-col items-center justify-center select-none">
 
-    <h1 class="text-[4rem] text-white font-bold ">
+    <h1 class="text-[4rem] text-white font-bold xl:mt-0 mt-[80rem]">
       CEJMA
     </h1>
-    <div class="flex gap-10">
+    <div class="flex flex-col xl:flex-row gap-10">
 
-      <div class="grid grid-cols-2 bg-[#40916C] p-6 rounded-xl grid-rows-3 gap-6 mt-6">
+      <div class="grid xl:grid-cols-2 bg-[#40916C] p-6 rounded-xl grid-rows-3 gap-6 mt-6">
 
       <question1/>
       <question2/>
@@ -18,7 +18,7 @@
 
 
     </div>
-    <div class="grid grid-cols-2 bg-[#40916C] p-6 rounded-xl grid-rows-3 gap-6 mt-6">
+    <div class="grid xl:grid-cols-2 bg-[#40916C] p-6 rounded-xl grid-rows-3 gap-6 mt-6">
       <question5/>
       <question5/>
       <question5/>

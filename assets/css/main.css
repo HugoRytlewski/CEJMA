@@ -4,5 +4,5 @@
 
 
 body{
-    @apply bg-[#1B4332] overflow-hidden
+    @apply bg-[#1B4332] md:overflow-hidden
 }
