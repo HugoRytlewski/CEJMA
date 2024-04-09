@@ -1,5 +1,10 @@
 
+<script setup>
 
+useSeoMeta({
+  title: "CEJMA",
+});
+</script>
 <template>
   <div class="h-[84vh] flex flex-col items-center justify-center select-none">
 
