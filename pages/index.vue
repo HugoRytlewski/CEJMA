@@ -19,14 +19,13 @@ useSeoMeta({
       <question2/>
       <question3/>
       <question4/>
-      <question4/>
 
 
     </div>
     <div class="grid xl:grid-cols-2 bg-[#40916C] p-6 rounded-xl grid-rows-3 gap-6 mt-6">
       <question5/>
-      <question5/>
-      <question5/>
+      <question6/>
+      <question7/>
 
     </div>
   </div>
